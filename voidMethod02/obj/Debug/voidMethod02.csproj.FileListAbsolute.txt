@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VoidMethod02\voidMethod02\voidMethod02\bin\Debug\voidMethod02.exe.config
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VoidMethod02\voidMethod02\voidMethod02\bin\Debug\voidMethod02.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VoidMethod02\voidMethod02\voidMethod02\bin\Debug\voidMethod02.pdb
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VoidMethod02\voidMethod02\voidMethod02\obj\Debug\voidMethod02.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VoidMethod02\voidMethod02\voidMethod02\obj\Debug\voidMethod02.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VoidMethod02\voidMethod02\voidMethod02\obj\Debug\voidMethod02.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VoidMethod02\voidMethod02\voidMethod02\obj\Debug\voidMethod02.pdb
