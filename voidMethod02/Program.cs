@@ -9,7 +9,7 @@ namespace voidMethod02
     public static class InvertText
     {
         public static string Text { get; set; }
-        public static string InvText()
+        public static string InvText(string userInput)
         {
             string result = string.Empty;
             for (int i = Text.Length - 1; i >= 0; i--)
